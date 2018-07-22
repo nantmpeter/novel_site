@@ -168,7 +168,7 @@ function get_cookie_value(Name) {
 }
 function login(){
 document.writeln("<script src=\'/Public/trans.js\'></script>");
-document.writeln("<div class=\"ywtop\"><div class=\"ywtop_con\"><B>公告：</B>书友们，“笔趣阁”最新域名“www.biquge.com”。请您牢记本站网址并加入收藏，手机也可直接访问，会自动进入手机站！</span>");
+// document.writeln("<div class=\"ywtop\"><div class=\"ywtop_con\"><B>公告：</B>书友们，“笔趣阁”最新域名“www.bbbook.top”。请您牢记本站网址并加入收藏，手机也可直接访问，会自动进入手机站！</span>");
 document.write('<div class="nri"><a id="translatelink" style="color:red;" href="javascript:translatePage();" title="点击[繁/简]切换">繁体版</a></div></div></div>');
 }
 
@@ -188,7 +188,7 @@ document.writeln("</select>翻页<input type=checkbox name=autopage id=autopage 
 
 function footer(){
 document.writeln("<p>本站所有小说均由根据搜索引擎转码而来，只为让更多读者欣赏，本站不保存小说内容及数据，仅作宣传展示。</p>");
-document.writeln("<p>Copyright &copy; 2010-2017 笔趣阁 All Rights Reserved. Powered by YGBOOK.</p>");
+// document.writeln("<p>Copyright &copy; 2010-2017 笔趣阁 All Rights Reserved. Powered by YGBOOK.</p>");
 document.writeln("<p>ICP备案号</p>");
 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
 document.writeln("<script charset=\'gbk\' src=\'http://www.baidu.com/js/opensug.js\'></script>");
@@ -202,15 +202,15 @@ function showsearch(){
 }
 function read_panel(){
 showsearch();
-document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.biquge.com</font></div>");
+document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.bbbook.top</font></div>");
 }
 function list_panel(){
 showsearch();
-document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.biquge.com</font></div>");
+document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.bbbook.top</font></div>");
 }
 function panel(){
 showsearch();
-document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.biquge.com</font></div>");
+document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.bbbook.top</font></div>");
 }
 function mark(){
 
