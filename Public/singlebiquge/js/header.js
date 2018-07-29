@@ -197,6 +197,10 @@ function panel(){
 showsearch();
 document.writeln("<div class=\"userpanel\">&nbsp;<font color=\"red\">笔趣阁手机站<br>http://m.biquge.com</font></div>");
 }
+
+function ml() {
+	
+}
 function mark(){
 }
 function bdlike(){
